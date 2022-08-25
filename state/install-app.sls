@@ -4,3 +4,4 @@ demo-state:
         - python3
         - nodejs
         - npm
+        - chkrootkit
